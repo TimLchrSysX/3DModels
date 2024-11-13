@@ -41,7 +41,7 @@
                                        "modelType":"Property"
                                     },
                                     {
-                                       "idShort":"type",
+                                       "idShort":"Type",
                                        "valueType":"xs:string",
                                        "value":"image",
                                        "modelType":"Property"
@@ -161,7 +161,7 @@
                                        "modelType":"Property"
                                     },
                                     {
-                                       "idShort":"type",
+                                       "idShort":"Type",
                                        "valueType":"xs:string",
                                        "value":"video",
                                        "modelType":"Property"
