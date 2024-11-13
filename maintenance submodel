@@ -11,8 +11,8 @@
                   {
                      "idShort":"Name",
                      "valueType":"xs:string",
+                     "value":"Entretien mensuel",
                      "modelType":"Property"
-                     "value":"Entretien mensuel"
                   },
                   {
                      "idShort":"Description",
