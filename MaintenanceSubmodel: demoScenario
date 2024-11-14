@@ -115,19 +115,19 @@
                                                 {
                                                    "idShort":"x",
                                                    "valueType":"xs:float",
-                                                   "value":"0.1",
+                                                   "value":"0.02",
                                                    "modelType":"Property"
                                                 },
                                                 {
                                                    "idShort":"y",
                                                    "valueType":"xs:float",
-                                                   "value":"0.1",
+                                                   "value":"0.005",
                                                    "modelType":"Property"
                                                 },
                                                 {
                                                    "idShort":"z",
                                                    "valueType":"xs:float",
-                                                   "value":"0.1",
+                                                   "value":"0.02",
                                                    "modelType":"Property"
                                                 }
                                              ],
@@ -235,19 +235,19 @@
                                                 {
                                                    "idShort":"x",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"0.1",
                                                    "modelType":"Property"
                                                 },
                                                 {
                                                    "idShort":"y",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"0.1",
                                                    "modelType":"Property"
                                                 },
                                                 {
                                                    "idShort":"z",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"0.1",
                                                    "modelType":"Property"
                                                 }
                                              ],
