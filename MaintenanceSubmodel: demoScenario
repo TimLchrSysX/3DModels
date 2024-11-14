@@ -58,7 +58,7 @@
                                           {
                                              "idShort":"ModelURL",
                                              "valueType":"xs:string",
-                                             "value":"https://raw.githubusercontent.com/TimLchrSysX/3DModels/refs/heads/main/Arrow1.gltf",
+                                             "value":"https://raw.githubusercontent.com/TimLchrSysX/3DModels/refs/heads/main/CylinderBlue.gltf",
                                              "modelType":"Property"
                                           },
                                           {
@@ -91,7 +91,7 @@
                                                 {
                                                    "idShort":"x",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"90",
                                                    "modelType":"Property"
                                                 },
                                                 {
