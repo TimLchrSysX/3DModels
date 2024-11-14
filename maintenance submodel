@@ -50,7 +50,7 @@
                                  "modelType":"SubmodelElementCollection"
                               },
                               {
-                                 "idShort":"Indicators",
+                                 "idShort":"IndicatorsX",
                                  "value":[
                                     {
                                        "idShort":"Arrow",
