@@ -11,7 +11,7 @@
                   {
                      "idShort":"Name",
                      "valueType":"xs:string",
-                     "value":"Entretien mensuel",
+                     "value":"Chauffer un plat",
                      "modelType":"Property"
                   },
                   {
@@ -28,7 +28,7 @@
                               {
                                  "idShort":"TextInstruction",
                                  "valueType":"xs:string",
-                                 "value":"Tirer la chevillette, la bobinette cherra",
+                                 "value":"Appuyer sur le bouton pour ouvrir la porte",
                                  "modelType":"Property"
                               },
                               {
@@ -37,7 +37,7 @@
                                     {
                                        "idShort":"FileURL",
                                        "valueType":"xs:anyURI",
-                                       "value":"https://gpfurnituremakers.com/wp-content/uploads/2020/03/step-1.png",
+                                       "value":"https://github.com/TimLchrSysX/3DModels/blob/main/step.png",
                                        "modelType":"Property"
                                     },
                                     {
