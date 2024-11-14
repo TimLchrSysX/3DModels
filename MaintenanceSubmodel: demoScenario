@@ -37,7 +37,7 @@
                                     {
                                        "idShort":"FileURL",
                                        "valueType":"xs:anyURI",
-                                       "value":"https://github.com/TimLchrSysX/3DModels/blob/main/step.png",
+                                       "value":"https://raw.githubusercontent.com/TimLchrSysX/3DModels/refs/heads/main/step.png",
                                        "modelType":"Property"
                                     },
                                     {
