@@ -67,7 +67,7 @@
                                                 {
                                                    "idShort":"x",
                                                    "valueType":"xs:float",
-                                                   "value":"0.3",
+                                                   "value":"0",
                                                    "modelType":"Property"
                                                 },
                                                 {
@@ -79,7 +79,7 @@
                                                 {
                                                    "idShort":"z",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"0.3",
                                                    "modelType":"Property"
                                                 }
                                              ],
@@ -97,7 +97,7 @@
                                                 {
                                                    "idShort":"y",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"90",
                                                    "modelType":"Property"
                                                 },
                                                 {
@@ -187,7 +187,7 @@
                                                 {
                                                    "idShort":"x",
                                                    "valueType":"xs:float",
-                                                   "value":"0.2",
+                                                   "value":"0",
                                                    "modelType":"Property"
                                                 },
                                                 {
@@ -199,7 +199,7 @@
                                                 {
                                                    "idShort":"z",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"0.2",
                                                    "modelType":"Property"
                                                 }
                                              ],
@@ -217,7 +217,7 @@
                                                 {
                                                    "idShort":"y",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"90",
                                                    "modelType":"Property"
                                                 },
                                                 {
