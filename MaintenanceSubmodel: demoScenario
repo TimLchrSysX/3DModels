@@ -50,7 +50,7 @@
                                  "modelType":"SubmodelElementCollection"
                               },
                               {
-                                 "idShort":"IndicatorsXY",
+                                 "idShort":"Indicators",
                                  "value":[
                                     {
                                        "idShort":"Arrow",
@@ -187,13 +187,13 @@
                                                 {
                                                    "idShort":"x",
                                                    "valueType":"xs:float",
-                                                   "value":"0.3",
+                                                   "value":"0.1",
                                                    "modelType":"Property"
                                                 },
                                                 {
                                                    "idShort":"y",
                                                    "valueType":"xs:float",
-                                                   "value":"0.2",
+                                                   "value":"-0.2",
                                                    "modelType":"Property"
                                                 },
                                                 {
@@ -211,7 +211,7 @@
                                                 {
                                                    "idShort":"x",
                                                    "valueType":"xs:float",
-                                                   "value":"0",
+                                                   "value":"90",
                                                    "modelType":"Property"
                                                 },
                                                 {
